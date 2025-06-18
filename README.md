@@ -1,6 +1,6 @@
-============================================================
+
 📺 UrbanTV XMLTV - Conversor e Monitorador de EPG (Windows)
-============================================================
+
 
 Este projeto possui dois scripts principais para obter e manter atualizados os arquivos de programação (EPG) da UrbanTV convertidos no padrão XMLTV:
 
